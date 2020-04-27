@@ -21,9 +21,9 @@ int integers(int argc, const char * argv[]) {
     @autoreleasepool {
         
         // MARK: NSNumber
-        NSNumber *intergerTen = @10;
-        NSNumber *boolTrue = @YES;
-        NSNumber *doublePI = @M_PI;
+//        NSNumber *intergerTen = @10;
+//        NSNumber *boolTrue = @YES;
+//        NSNumber *doublePI = @M_PI;
         
     }
     return 0;
